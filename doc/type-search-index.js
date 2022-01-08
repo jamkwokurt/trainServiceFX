@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"wellington","l":"Main"},{"p":"wellington","l":"Station"},{"p":"wellington","l":"StationComparator"},{"p":"wellington","l":"TrainLine"},{"p":"wellington","l":"TrainLineComparator"},{"p":"wellington","l":"TrainService"}];updateSearchResults();
